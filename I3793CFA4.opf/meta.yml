@@ -1,0 +1,18 @@
+id: I3793CFA4
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:32:12.226703
+last_modified: 2023-01-04 11:32:12.226716
+source_metadata:
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+bases:
+  646F:
+    title: Threefold Aspiration for Rebirth in Zangdok Palri
+    base_file: 646F.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
